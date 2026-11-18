@@ -1,0 +1,17 @@
+# Aplikacija
+
+Reserved seat for the application of the corpus — the body is not born yet. The repository currently holds only the license family and the canon mirror; application code will be born here when its time comes.
+
+Trying hard to make it happen.
+
+## Contents
+
+- `LICENSE.md`, `LICENSE-SEED.md`, `LICENSE-MANIFEST.json` — license family
+- `canon/` — canon mirror
+- `TDM-RESERVATION.md`, `REGISTER-NEIMENOVANIH.jsonl`, `REGISTER-PADCEV.jsonl`, `VBL-10.5.1-KOMPIL-A-DRAFT-NOT-RELEASED.md` — corpus registers
+
+## License
+
+Canonical license: [LICENSE.md (VBL 0.1610 × 10⁴)](https://github.com/AtmaOVictu/Atmavictu/blob/main/LICENSE.md) in the home repository Atmavictu — the grant is carried only by the newest canonical version. The house copy (`LICENSE.md`) and the seed (`LICENSE-SEED.md`) travel with this body.
+
+© 0.2026 × 10⁴ Luka Pintarič
