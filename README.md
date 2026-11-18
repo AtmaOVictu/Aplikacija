@@ -7,11 +7,11 @@ Trying hard to make it happen.
 ## Contents
 
 - `LICENSE.md`, `LICENSE-SEED.md`, `LICENSE-MANIFEST.json` — license family
-- `canon/` — canon mirror
-- `TDM-RESERVATION.md`, `REGISTER-NEIMENOVANIH.jsonl`, `REGISTER-PADCEV.jsonl`, `VBL-10.5.1-KOMPIL-A-DRAFT-NOT-RELEASED.md` — corpus registers
+- `TDM-RESERVATION.md` — TDM reservation
+- `canon/` — canon mirror with the corpus registers (`REGISTER-NEIMENOVANIH.jsonl`, `REGISTER-PADCEV.jsonl`, `VBL-10.5.1-KOMPIL-A-DRAFT-NOT-RELEASED.md`), moved from the root on 18. 11. 2026
 
 ## License
 
-Canonical license: [LICENSE.md (VBL 0.1610 × 10⁴)](https://github.com/AtmaOVictu/Atmavictu/blob/main/LICENSE.md) in the home repository Atmavictu — the grant is carried only by the newest canonical version. The house copy (`LICENSE.md`) and the seed (`LICENSE-SEED.md`) travel with this body.
+Canonical license: [LICENSE.md (VBL 0.1620 × 10⁴)](https://github.com/AtmaOVictu/Atmavictu/blob/main/LICENSE.md) in the home repository Atmavictu — the grant is carried only by the newest canonical version. The house copy (`LICENSE.md`) and the seed (`LICENSE-SEED.md`) travel with this body.
 
 © 0.2026 × 10⁴ Luka Pintarič
